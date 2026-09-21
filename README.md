@@ -250,4 +250,4 @@ This repository serves as the official landing page for Valheim. The software is
 **Get the most recent version of Valheim today!**
 
 ---
-**Last updated:** 2026-09-21 03:30:58 UTC
+**Last updated:** 2026-09-21 09:37:40 UTC
